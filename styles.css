@@ -7,7 +7,7 @@
 html{
     background-color: var(--my-background);
     color: var(--my-text-color);
-    background-image: url('../src/background.png');
+    background-image: url('src/background.png');
     font-family: FiraCode NF, "MS Trebuchet", sans-serif;
 }
 

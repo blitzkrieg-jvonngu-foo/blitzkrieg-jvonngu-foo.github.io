@@ -1,9 +1,0 @@
-Hey, I'm a new programmer, and I want to be a Data Scientist and ably a AI 
-Engineer. I'm learning R and Matlab after Python, but I have just a bitte of 
-knowledge about some other languages such as C/C++ (of course
-while I using Python), Java/Kotlin (the first language I learnt), C# (the 
-second languages I learnt), Javascript (I did not really learn it, but I looked 
-up functions, modules, libraries for creating the webpage) and Lua (I take a 
-lot of time to use it for configuring neovim).\n
-
-

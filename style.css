@@ -1,3 +1,45 @@
+:root{
+    --my-background: #2f2a24;
+    --my-link-text-color: #ffb225;
+    --my-text-color: #ffd38f;
+}
+
 html{
-    background-color: #121212;
+    background-color: var(--my-background);
+}
+
+body{
+    text-align: center;
+    color: var(--my-text-color);
+    font-family: Arial, "MS Trebuchet", sans-serif;
+}
+
+h1{
+    font-size: 45px;
+}
+
+hr{
+    border-top: 1px solid #171512;
+    border-bottom: 1px solid #3f3335;
+    border-radius: 5px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    width: 75%;
+}
+
+img{
+    border: 3px solid var(--my-link-text-color);
+    border-radius: 100%;
+}
+
+p{
+    text-align: left;
+}
+
+a{
+    color: var(--my-link-text-color);
+}
+
+a:hover {
+    color: red;
 }

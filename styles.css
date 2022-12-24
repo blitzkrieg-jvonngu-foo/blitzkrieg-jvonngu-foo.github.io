@@ -7,12 +7,12 @@
 html{
     background-color: var(--my-background);
     color: var(--my-text-color);
-    background-image: url('./src/background.png');
     font-family: FiraCode NF, "MS Trebuchet", sans-serif;
 }
 
 body{
     text-align: center;
+    background-image: url('./src/background.png');
     color: lightblue;
 }
 
